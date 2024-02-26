@@ -1,6 +1,14 @@
-<<<<<<< HEAD
+
 # second
 training repo
 =======
 # myrepo
->>>>>>> 03032fc810db071e8684c65ec8085fefe95f2638
+
+# yamen
+yamen
+# myrepo
+## obay is the king of engineering
+# myrepo1
+this is my repo no with branch
+hjgbnjgnjhkkj
+
